@@ -1,2 +1,2 @@
 # Tarothlon !
-TEST
+Application Officiel de l'Association COMTA !
